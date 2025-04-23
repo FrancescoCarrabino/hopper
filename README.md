@@ -196,4 +196,4 @@ This project is licensed under the [MIT License](LICENSE). <!-- TODO: Replace MI
 
 ---
 
-*Made with ❤️ by <Your Name/Org>* <!-- TODO: Update attribution -->
+*Made with ❤️ by francarra* <!-- TODO: Update attribution -->
