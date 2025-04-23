@@ -10,6 +10,8 @@ An AI-powered language server designed to provide intelligent, locally-configura
 **Grasshopper brings AI code assistance directly into your editor, giving you control over the models and providers you use.**
 
 ---
+## Key notes
+__Hey guys, this is a first draft and a very quick implementation. Suggestions might feel a little bit off or slightly buggy. I have tested it with Ollama running locally Qwen2.5-coder:3b. It works pretty good, but there is still lots to do. If you wanna become a contributor or help me refine the tool, I would be more than happy to share this journey with you! XOXO__
 
 ## ✨ Key Features
 
